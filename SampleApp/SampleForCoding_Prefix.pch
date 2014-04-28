@@ -1,0 +1,15 @@
+//
+// Prefix header for all source files of the 'SampleForCoding' target in the 'SampleForCoding' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+// メディアID
+#define FLUCT_MEDIA_ID  @"SET_YOUR_MEDIA_ID"
+
+// インタースティシャル用メディアID
+#define FLUCT_INTERSTITIAL_MEDIA_ID  @"SET_YOUR_MEDIA_ID_FOR_INTERSTITIAL"
+
