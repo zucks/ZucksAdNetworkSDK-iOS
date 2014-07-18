@@ -3,7 +3,7 @@
 //  FluctSDK
 //
 //  Fluct SDK
-//  Copyright 2011-2013 Zucks, Inc. All rights reserved.
+//  Copyright 2011-2014 VOYAGE GROUP, Inc. All rights reserved.
 //
 
 /*
@@ -16,8 +16,8 @@
 
 @interface FluctSDK : NSObject
 
-@property (nonatomic, copy) NSString* _applicationId;
-+ (id)sharedInstance;
+@property (nonatomic, copy) NSString* applicationId;
++ (FluctSDK *)sharedInstance;
 
 /*
  * setBannerConfiguration
@@ -49,13 +49,4 @@
  */
 -(void)setConversion:(NSString*)mediaId;
 
-/*
- * [デモグラ情報設定]
- *　ウェブビュー用デモグラ情報を設定
- *
- * arguments:
- * (NSString*)key : デモグラのキー名（gen、age）
- * (NSString*)value : デモグラ値
- */
-- (void)setDemogura:(NSString *)key withValue:(NSString *)value;
 @end
