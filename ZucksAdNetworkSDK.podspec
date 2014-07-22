@@ -19,5 +19,6 @@ Pod::Spec.new do |s|
   s.vendored_libraries = 'libs/libFluctSDK.a'
   s.libraries = 'sqlite3.0', 'xml2'
   s.frameworks = 'CoreGraphics', 'SystemConfiguration', 'UIKit'
+  s.weak_framework = 'AdSupport'
   s.requires_arc = false
 end
