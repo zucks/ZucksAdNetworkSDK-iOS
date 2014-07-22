@@ -3,12 +3,12 @@
 //  FluctSDK
 //
 //  Fluct SDK
-//  Copyright 2011-2013 Zucks, Inc. All rights reserved.
+//  Copyright 2011-2014 VOYAGE GROUP, Inc. All rights reserved.
 //
 
 /*
  * バナー広告表示を行う
- * 事前にFluctSDKで表示設定処理を行う必要があります
+ * 事前に表示設定処理を行う必要があります
  */
 
 #import <UIKit/UIKit.h>

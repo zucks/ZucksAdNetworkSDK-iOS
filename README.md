@@ -12,7 +12,7 @@ iOS向けアプリケーションにZucks Ad Networkの広告を表示するた�
   * SDKファイル用フォルダ
 * SampleApp
   * SDK組み込みのサンプルアプリケーション
-  * SampleForCoding_Prefix.pchにメディアIDを設定することで、広告の表示が確認できます
+  * SampleApp-Prefix.pchにメディアIDを設定することで、広告の表示が確認できます
 * README.md
   * 本ファイル
 * ZucksAdNetworkSDK.podspec
@@ -20,8 +20,7 @@ iOS向けアプリケーションにZucks Ad Networkの広告を表示するた�
 
 ## 対象OS
 
-iOS4.3以降
-(64bitには現在未対応となります)
+iOS5.1.1以降
 
 ## 導入手順
 

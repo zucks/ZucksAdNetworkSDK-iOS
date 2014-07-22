@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'ZucksAdNetworkSDK'
-  s.version = '2.0.0'
+  s.version = '3.0.0'
   s.summary = 'ZucksAdNetworkSDK for iOS'
   s.homepage = 'https://github.com/zucks/ZucksAdNetworkSDK-iOS'
   s.license = {
@@ -14,11 +14,10 @@ Pod::Spec.new do |s|
     :git => 'https://github.com/zucks/ZucksAdNetworkSDK-iOS.git',
     :tag => s.version.to_s
   }
-  s.platform = :ios, '4.3'
+  s.platform = :ios, '5.1.1'
   s.source_files = 'libs/*.h'
   s.vendored_libraries = 'libs/libFluctSDK.a'
   s.libraries = 'sqlite3.0', 'xml2'
   s.frameworks = 'CoreGraphics', 'SystemConfiguration', 'UIKit'
-  s.xcconfig = { 'OTHER_LDFLAGS' => '-all_load' }
   s.requires_arc = false
 end

@@ -3,7 +3,7 @@
 //  FluctSDK
 //
 //  Fluct SDK
-//  Copyright 2013 Zucks, Inc. All rights reserved.
+//  Copyright 2013-2014 VOYAGE GROUP, Inc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
