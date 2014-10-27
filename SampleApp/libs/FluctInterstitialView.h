@@ -1,6 +1,6 @@
 //
 //  FluctInterstitialView.h
-//  FluctSDK
+//  FluctSDK ver. 3.0.2
 //
 //  Fluct SDK
 //  Copyright 2013-2014 VOYAGE GROUP, Inc. All rights reserved.
@@ -35,7 +35,7 @@ typedef NS_ENUM(NSInteger, FluctInterstitialViewCallbackType)
 - (void)dismissInterstitialAd;
 @property (nonatomic, copy, readwrite) NSString *hexColorString;
 
-@property (nonatomic, unsafe_unretained, readwrite) id<FluctInterstitialViewDelegate> delegate;
+@property (nonatomic, weak, readwrite) id<FluctInterstitialViewDelegate> delegate;
 
 @end
 
