@@ -4,12 +4,9 @@ Pod::Spec.new do |s|
   s.summary = 'ZucksAdNetworkSDK for iOS'
   s.homepage = 'https://github.com/zucks/ZucksAdNetworkSDK-iOS'
   s.license = {
-    :type => 'Copyright',
-    :text => <<-LICENSE
-      Copyright Zucks, Inc. All rights reserved.
-      LICENSE
+    :type => 'Copyright'
   }
-  s.author = 'Zucks, Inc.'
+  s.author = 'VOYAGE GROUP, Inc.'
   s.source = {
     :git => 'https://github.com/zucks/ZucksAdNetworkSDK-iOS.git',
     :tag => s.version.to_s
