@@ -18,4 +18,4 @@ https://ms.zucksadnetwork.com/media/sdk/manual/ios/
 
 ## LICENSE
 
-Copyright (C) 2016 Zucks, Inc. All rights reserved.
+Copyright (C) Zucks, Inc.
