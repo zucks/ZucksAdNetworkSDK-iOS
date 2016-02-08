@@ -3,20 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>ja_JP</string>
 	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
+	<string>ZucksAdNetworkSDK</string>
+	<key>CFBundleGetInfoString</key>
+	<string>ZucksAdNetworkSDK</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.co.zucks.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>net.zucks.sdk.ZucksAdNetworkSDK</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ZucksAdNetworkSDK</string>
 	<key>CFBundlePackageType</key>
-	<string>BNDL</string>
+	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>4.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CFBundleVersion</key>
-	<string>1</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright (C) 2015 Zucks, Inc.</string>
 </dict>
 </plist>
