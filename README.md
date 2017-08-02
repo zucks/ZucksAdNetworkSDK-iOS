@@ -8,7 +8,7 @@ iOS向けアプリケーションにZucks Ad Networkの広告を表示するた�
 
 ## 対象OS
 
-iOS6.0以降
+iOS7.0以降
 
 ## 導入手順
 
