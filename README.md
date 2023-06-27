@@ -6,10 +6,6 @@ iOS向けアプリケーションにZucks Ad Networkの広告を表示するた�
 * Zucks Ad Network
   * http://zucks.co.jp/publisher/adnetwork/
 
-## 対象OS
-
-iOS9.0以降
-
 ## 導入手順
 
 SDKの導入手順に関しては下記ページをご確認ください。
