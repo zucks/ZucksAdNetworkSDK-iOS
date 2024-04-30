@@ -4,7 +4,7 @@ ZucksAdNetworkSDK for iOS
 iOS向けアプリケーションにZucks Ad Networkの広告を表示するためのSDKとなります
 
 * Zucks Ad Network
-  * http://zucks.co.jp/publisher/adnetwork/
+  * https://zucks.co.jp/publisher/adnetwork/
 
 ## 導入手順
 
@@ -14,4 +14,4 @@ https://ms.zucksadnetwork.com/media/sdk/manual/ios/
 
 ## LICENSE
 
-Copyright (C) Zucks, Inc.
+Copyright (C) CARTA MARKETING FIRM Inc.
