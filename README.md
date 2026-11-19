@@ -14,4 +14,4 @@ https://ms.zucksadnetwork.com/media/sdk/manual/ios/
 
 ## LICENSE
 
-Copyright (C) CARTA MARKETING FIRM Inc.
+Copyright (C) CARTA ZERO Inc.
